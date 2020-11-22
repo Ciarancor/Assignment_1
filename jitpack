@@ -4,9 +4,12 @@
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
+
+
 <dependency>
 	    <groupId>com.github.Ciarancor</groupId>
 	    <artifactId>Assignment_1</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>Tag</version>
 	</dependency>
-  
+
+
